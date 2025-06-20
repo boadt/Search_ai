@@ -47,7 +47,7 @@ LLM이 다음 동작을 위해 스스로 사고하는 과정을 추가해 의미
 
 ---
 
-
+참고 : https://youtu.be/t4RdOgUReKo?si=eqWXrMrMy1egb6ln, https://www.anthropic.com/engineering/building-effective-agents
 
 
  
