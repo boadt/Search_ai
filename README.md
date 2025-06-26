@@ -8,11 +8,6 @@
 
 ## 1. 서론
 
-![Uploading ChatGPT Image 2025년 6월 26일 오후 08_30_49.png…]()
-![Uploading ChatGPT Image 2025년 6월 26일 오후 08_30_49.png…]()
-![Uploading ChatGPT Image 2025년 6월 26일 오후 08_30_49.png…]()
-![Uploading ChatGPT Image 2025년 6월 26일 오후 08_30_49.png…]()
-
 최근 AI 분야에서 단순한 질의응답을 넘어, 복잡한 작업을 스스로 계획하고 수행하는 Agent 시스템이 주목받고 있다.
 LangChain이나 LangGraph, ReAct 같은 프레임워크를 접하며 Agent의 개념과 활용 가능성에 흥미를 느껴 학습하게 되었다.
 
