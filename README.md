@@ -8,7 +8,15 @@
 
 ## 1. 서론
 
-AI챗봇 구현 프로젝트에 들어가기 앞서, 미리 알아두어야 할 지식들이 무엇이 있을지 찾아보고 학습하여 정리하려고 함.
+![Uploading ChatGPT Image 2025년 6월 26일 오후 08_30_49.png…]()
+![Uploading ChatGPT Image 2025년 6월 26일 오후 08_30_49.png…]()
+![Uploading ChatGPT Image 2025년 6월 26일 오후 08_30_49.png…]()
+![Uploading ChatGPT Image 2025년 6월 26일 오후 08_30_49.png…]()
+
+최근 AI 분야에서 단순한 질의응답을 넘어, 복잡한 작업을 스스로 계획하고 수행하는 Agent 시스템이 주목받고 있다.
+LangChain이나 LangGraph, ReAct 같은 프레임워크를 접하며 Agent의 개념과 활용 가능성에 흥미를 느껴 학습하게 되었다.
+
+이 글에서는 Agent의 개념을 정리하고, 이를 바탕으로 간단한 챗봇을 직접 구현해본 과정을 공유하고자 한다.
 
 ---
 
